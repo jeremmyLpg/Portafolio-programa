@@ -22,9 +22,10 @@
     <div class="cont-menu">
       <nav>
         <a href="#">Trascripciones</a>
-        <a href="#">Historial</a>
-        <a href="#">Algo mas</a>
-        <a href="http://localhost:8080/auth/realms/master/protocol/openid-connect/auth?client_id=security-admin-console&redirect_uri=http%3A%2F%2Flocalhost%3A8080%2Fauth%2Fadmin%2Fmaster%2Fconsole%2F&state=d11b7d2a-dee7-44a0-8ad4-8b59b5ec6eed&response_mode=fragment&response_type=code&scope=openid&nonce=5d98f763-2a1b-4deb-82bf-2c64e471c24f&code_challenge=vjYDeQkVy2pwAxSmBKo-E5dcV2hwNDtq_bs5tEsmr-E&code_challenge_method=S256">Inicio Sesión</a>
+        <a href="#">Cerrar Sesión</a>
+        <a href="http://localhost:8080/auth/admin/master/console/#/Portafolio">keycloak-admin</a>
+        <!-- <a href="#"></a>
+        <a href="#"></a> -->
       </nav>
       <label for="btn-menu">✖️</label>
     </div>

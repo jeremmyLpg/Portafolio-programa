@@ -9,8 +9,8 @@ import Keycloak from 'keycloak-js'
 
 let initOptions = {
   url : 'http://localhost:8080/auth',
-  realm : 'hi5code',
-  clientId : 'hi5code-vue',
+  realm : 'Portafolio',
+  clientId : 'Alloxentric',
   onLoad  : 'login-required'
 }
 
